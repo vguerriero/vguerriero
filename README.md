@@ -21,4 +21,4 @@ Certifications:
 - Linux Essentials Certification - Linux Professional Institute (LPI)
 
 Featured Projects:
-- 
+- House Price Prediction Model: A machine learning model that predicts house prices using various regression techniques. [View project]
