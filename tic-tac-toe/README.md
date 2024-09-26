@@ -1,31 +1,39 @@
 Tic-Tac-Toe Game
 
-A simple, browser-based Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
-
-How to Play
-
-- The game is played between two players. One player is 'X' and the other is 'O'.
-- Players take turns clicking on the grid cells to place their mark.
-- The first player to align three of their marks horizontally, vertically, or diagonally wins the game.
-- If all cells are filled and no player has aligned three marks, the game ends in a draw.
-- You can restart the game by clicking the **"Restart Game"** button.
+A simple and interactive Tic-Tac-Toe game built with HTML, CSS, and JavaScript. This project showcases a clean, minimalistic design with fully functional two-player gameplay.
 
 Features
 
-- Player vs Player Mode (X vs O).
-- A restart button to start a new round at any time.
-- Game status updates after each move, indicating which player's turn it is or if a player has won.
-- A clean and simple interface with CSS styling.
+- Player vs Player Mode: Two players can play alternately by clicking on the cells.
+- Responsive Design: The game is responsive and works on both desktop and mobile devices.
+- Game Status Updates: Displays whose turn it is, and declares a winner or a draw when the game ends.
+- Restart Functionality: Easily restart the game after completion.
+- Visual and Interactive: Simple and clean interface with clickable grid elements.
 
-Technologies Used
+How to Play
 
-- HTML: Structure of the game.
-- CSS: Basic styling for the game board and buttons.
-- JavaScript: Game logic including checking win conditions and updating the UI.
+1. The game begins with Player X's turn.
+2. Players take turns clicking on the grid to place their X or O.
+3. The first player to align three of their marks (either X's or O's) vertically, horizontally, or diagonally wins the game.
+4. If all grid cells are filled and no player has three in a row, the game ends in a draw.
+5. Click the "Restart Game" button to start a new game.
 
-How to Run Locally
+Technology Stack
+
+- HTML: Structure of the game
+- CSS: Styling and design
+- JavaScript: Game logic and interactivity
+
+Setup
+
+To run the game locally, follow these steps:
 
 1. Clone the repository:
+    bash:
+    git clone https://github.com/yourusername/tic-tac-toe.git
+   
+2. Open `index.html` in your browser to start playing the game.
 
-   bash:
-   git clone https://github.com/yourusername/tic-tac-toe.git
+License
+
+This project is open-source and available under the MIT License.
