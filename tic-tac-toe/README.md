@@ -30,9 +30,11 @@ To run the game locally, follow these steps:
 
 1. Clone the repository:
     bash:
-    git clone https://github.com/vguerriero/vguerriero/tic-tac-toe.git
+   - git clone https://github.com/vguerriero/vguerriero
+
+2. Open the "tic-tac-toe" folder.
    
-2. Open `index.html` in your browser to start playing the game.
+3. Open `index.html` in your browser to start playing the game.
 
 License
 
